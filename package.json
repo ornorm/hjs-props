@@ -1,0 +1,32 @@
+{
+  "name": "hjs-props",
+  "version": "1.0.0",
+  "description": "Read properties files from NodeJS",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ornorm/hjs-props.git"
+  },
+  "keywords": [
+    "LineReader",
+    "Properties"
+  ],
+  "author": "Aime Biendo <abiendo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ornorm/hjs-props/issues"
+  },
+  "homepage": "https://github.com/ornorm/hjs-props#readme",
+  "dependencies": {
+    "hjs-collection": "^1.0.0",
+    "hjs-core": "^1.0.1",
+    "hjs-file": "^1.0.0",
+    "hjs-io": "^1.0.0"
+  }
+}
